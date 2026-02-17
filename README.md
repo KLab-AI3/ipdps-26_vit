@@ -257,9 +257,7 @@ The benchmarking stage directly produces raw logs and CSV files that contain lat
 python src/run_bench.py \
     --schedule results/schedules/schedule_ic.json \
     --output results/logs/bench_ic.csv
-
-
-
+```
 ---
 
 
