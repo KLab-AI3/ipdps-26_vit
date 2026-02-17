@@ -250,17 +250,14 @@ python src/run_bench.py \
 
 #### T6 — Analysis and Figure Generation
 
-Aggregate logs and generate figures/tables corresponding to the paper.
+The benchmarking stage directly produces raw logs and CSV files that contain latency, throughput, and resource utilization statistics.
 
 ```bash
-python scripts/aggregate_results.py \
-    --input results/logs \
-    --output results/tables
+# results are generated automatically during benchmarking
+python src/run_bench.py \
+    --schedule results/schedules/schedule_ic.json \
+    --output results/logs/bench_ic.csv
 
-python scripts/plot_results.py \
-    --input results/logs \
-    --output results/figures
-```
 
 
 ---
