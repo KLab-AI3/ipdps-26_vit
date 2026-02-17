@@ -279,15 +279,15 @@ figures/
 ### End-to-End Speedup
 
 <p align="center">
-  <img src="figures/DV_AB.png" width="50%">
+  <img src="figures/DV_AB.png" width="32%">
 </p>
 
 <p align="center">
-  <img src="figures/RV_AB.png" width="50%">
+  <img src="figures/RV_AB.png" width="32%">
 </p>
 
 <p align="center">
-  <img src="figures/VL_AB.png" width="80%">
+  <img src="figures/VL_AB.png" width="32%">
 </p>
 
 
@@ -296,7 +296,7 @@ figures/
 ### Reordered Sparse Attention Heatmap
 
 <p align="center">
-  <img src="figures/dynamicvit_speedup_heatmap.png" width="80%">
+  <img src="figures/dynamicvit_speedup_heatmap.png" width="32%">
 </p>
 
 ---
