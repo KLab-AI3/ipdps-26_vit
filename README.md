@@ -279,11 +279,11 @@ figures/
 ### End-to-End Speedup
 
 <p align="center">
-  <img src="figures/DV_AB.png" width="80%">
+  <img src="figures/DV_AB.png" width="50%">
 </p>
 
 <p align="center">
-  <img src="figures/RV_AB.png" width="80%">
+  <img src="figures/RV_AB.png" width="50%">
 </p>
 
 <p align="center">
