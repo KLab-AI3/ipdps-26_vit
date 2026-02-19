@@ -1,0 +1,17 @@
+Resolution,Patch,Tokens,Latency(ms)
+224,8,Error,Error
+224,16,Error,Error
+224,32,Error,Error
+224,64,Error,Error
+384,8,Error,Error
+384,16,Error,Error
+384,32,Error,Error
+384,64,Error,Error
+512,8,4096,12.953
+512,16,1024,12.947
+512,32,256,12.976
+512,64,64,12.488
+1024,8,Error,Error
+1024,16,Error,Error
+1024,32,Error,Error
+1024,64,Error,Error
